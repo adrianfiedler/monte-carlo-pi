@@ -1,6 +1,6 @@
 let insides = 0;
 let outsides = 0;
-const samples = 1000000;
+const samples = 100000;
 
 let points = [];
 function setup() {
